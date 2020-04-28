@@ -1,2 +1,2 @@
 # test
-A repo to play with GitHub Apps integration
+This is just a repo to play with GitHub Apps integration
